@@ -1,0 +1,26 @@
+h1{
+    color: #1133f2;
+    text-align: center;
+    font-size : 40px;
+}
+
+img{
+    border: 3px dashed rgb(245, 12, 8);
+    border-radius: 20px;
+}
+
+.f1{
+    border: 3px solid rgb(245, 12, 8);
+    border-radius: 20px;
+    color:rgb(238, 60, 60);
+    text-align: center;
+    font-size : 25px;
+    font-weight: 800;
+    font-style: oblique;
+    width: 35%;
+
+}
+
+.f2{
+    color: blueviolet;
+}
